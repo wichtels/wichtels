@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wichtels.png"
+  <img src="wichtels.png"
        width="320"
        alt="Wichtel ASCII Portrait">
 </p>
