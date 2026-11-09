@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="basaltascii.png"
-       width="620"
+  <img src="basaltasc.png"
+       width=90%
        alt="Wichtels ASCII Portrait">
 </p>
