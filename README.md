@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/wichtels/audiowald-basalt">
   <img src="basaltasc.png"
        width=90%
-       alt="Wichtels ASCII Portrait">
+       alt="Wichtels Audiowald Basalt ASCII Art">
+  </a>
 </p>
